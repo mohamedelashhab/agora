@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/agora/static/css/main.0eb100dc.chunk.css",
-    "main.js": "/agora/static/js/main.53bff558.chunk.js",
-    "main.js.map": "/agora/static/js/main.53bff558.chunk.js.map",
+    "main.js": "/agora/static/js/main.9ae69753.chunk.js",
+    "main.js.map": "/agora/static/js/main.9ae69753.chunk.js.map",
     "runtime-main.js": "/agora/static/js/runtime-main.25c50775.js",
     "runtime-main.js.map": "/agora/static/js/runtime-main.25c50775.js.map",
     "static/css/2.cb0b8a9c.chunk.css": "/agora/static/css/2.cb0b8a9c.chunk.css",
-    "static/js/2.497d5880.chunk.js": "/agora/static/js/2.497d5880.chunk.js",
-    "static/js/2.497d5880.chunk.js.map": "/agora/static/js/2.497d5880.chunk.js.map",
-    "5e0ef16dbf18f4194502.worker.js": "/agora/5e0ef16dbf18f4194502.worker.js",
-    "5e0ef16dbf18f4194502.worker.js.map": "/agora/5e0ef16dbf18f4194502.worker.js.map",
+    "static/js/2.1f2e0541.chunk.js": "/agora/static/js/2.1f2e0541.chunk.js",
+    "static/js/2.1f2e0541.chunk.js.map": "/agora/static/js/2.1f2e0541.chunk.js.map",
+    "909594471f27c6305d99.worker.js": "/agora/909594471f27c6305d99.worker.js",
+    "909594471f27c6305d99.worker.js.map": "/agora/909594471f27c6305d99.worker.js.map",
     "index.html": "/agora/index.html",
-    "precache-manifest.7c5e7706a2864565d51a8358b76ac567.js": "/agora/precache-manifest.7c5e7706a2864565d51a8358b76ac567.js",
+    "precache-manifest.9f9187323b8c295b505092217b0e5ab3.js": "/agora/precache-manifest.9f9187323b8c295b505092217b0e5ab3.js",
     "service-worker.js": "/agora/service-worker.js",
     "static/css/2.cb0b8a9c.chunk.css.map": "/agora/static/css/2.cb0b8a9c.chunk.css.map",
     "static/css/main.0eb100dc.chunk.css.map": "/agora/static/css/main.0eb100dc.chunk.css.map",
-    "static/js/2.497d5880.chunk.js.LICENSE.txt": "/agora/static/js/2.497d5880.chunk.js.LICENSE.txt",
+    "static/js/2.1f2e0541.chunk.js.LICENSE.txt": "/agora/static/js/2.1f2e0541.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/agora/static/media/cover-us.a2d244ac.png",
     "static/media/replay.scss": "/agora/static/media/pic-teacher.580ff5f1.png",
     "static/media/icons.scss": "/agora/static/media/pic-student.f5d3055b.png"
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.25c50775.js",
     "static/css/2.cb0b8a9c.chunk.css",
-    "static/js/2.497d5880.chunk.js",
+    "static/js/2.1f2e0541.chunk.js",
     "static/css/main.0eb100dc.chunk.css",
-    "static/js/main.53bff558.chunk.js"
+    "static/js/main.9ae69753.chunk.js"
   ]
 }

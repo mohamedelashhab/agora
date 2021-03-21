@@ -94,6 +94,8 @@ function HomePage() {
     var subject = url.searchParams.get("subject");
     var status = url.searchParams.get("status");
     var description = url.searchParams.get("description");
+    var from = url.searchParams.get("from");
+    var to = url.searchParams.get("to");
 
 
     var data = {
@@ -103,7 +105,9 @@ function HomePage() {
       'subject': subject,
       'yourName': '',
       'status': status,
-      'description': description
+      'description': description,
+      'from': from,
+      'to': to,
     }
     axios.post(`${process.env.REACT_APP_END_POINT}creat_class_room`, data).then((res)=>{
         session.roomName = res.data.roomName;
